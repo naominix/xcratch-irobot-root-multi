@@ -4,7 +4,7 @@
     "path": "./static/preloaded-extensions/microbitMore.mjs"
   },
   {
-    "url": "https://raw.githubusercontent.com/naominix/xcx-irobot-root/0704483/dist/irobotRoot.mjs",
+    "url": "https://raw.githubusercontent.com/naominix/xcx-irobot-root/multi-root/dist/irobotRoot.mjs",
     "path": "./static/preloaded-extensions/irobotRoot.mjs"
   },
   {
